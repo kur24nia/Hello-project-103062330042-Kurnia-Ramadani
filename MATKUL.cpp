@@ -2,7 +2,7 @@
 #include <string>
 #include <vector>
 #include <iomanip>
-//nambah file
+//Tambah
 using namespace std;
 
 struct Matkul {
