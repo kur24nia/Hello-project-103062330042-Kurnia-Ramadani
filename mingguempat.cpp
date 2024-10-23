@@ -2,6 +2,7 @@
 #include <string>
 #include <vector>
 //ubah file
+//ubah
 
 struct Aset {
     std::string nama;
